@@ -1,0 +1,9 @@
+name: Factions
+author: JustDontDie
+version: 0.1 (Alpha)
+main: com.gmail.justdontdiebusiness.Factions
+
+commands:
+  faction:
+    description: Main factions command
+    aliases: [fac, f]
